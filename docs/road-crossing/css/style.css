@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #000000;
+    overflow: hidden;
+}
+
+ /* set canvas style created by createCanvas() in main.js */
+canvas {
+    border: 1px solid #000;
+}
